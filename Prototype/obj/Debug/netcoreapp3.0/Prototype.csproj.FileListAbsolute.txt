@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\bin\Debug\netcoreapp3.0\Prototype.exe
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\bin\Debug\netcoreapp3.0\Prototype.deps.json
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\bin\Debug\netcoreapp3.0\Prototype.runtimeconfig.json
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\bin\Debug\netcoreapp3.0\Prototype.runtimeconfig.dev.json
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\bin\Debug\netcoreapp3.0\Prototype.dll
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\bin\Debug\netcoreapp3.0\Prototype.pdb
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\obj\Debug\netcoreapp3.0\Prototype.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\obj\Debug\netcoreapp3.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\obj\Debug\netcoreapp3.0\Prototype.AssemblyInfo.cs
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\obj\Debug\netcoreapp3.0\Prototype.dll
+C:\Users\USER\source\repos\CreationalPatterns\Prototype\obj\Debug\netcoreapp3.0\Prototype.pdb
